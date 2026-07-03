@@ -139,9 +139,9 @@
             "#2780E64d"
         ],
         "CHAT_BACKGROUND": [
-            "#1A064D93",
-            "#1A064D93",
-            "#1A064D93"
+            "#1a064d93",
+            "#1a064d93",
+            "#1a064d93"
         ],
 	"CHAT_SWIPE_TO_REPLY_BACKGROUND": [
 	    "#0f1428",
@@ -462,6 +462,11 @@
             "#689d6a",
             "#427b58",
             "#689d6a"
+        ],
+		"TEXT_STRONG": [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
         ],
         "TEXT_WARNING": [
             "#fb4934",
