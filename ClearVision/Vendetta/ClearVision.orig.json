@@ -13,9 +13,9 @@
             "#541224"
         ],
         "BACKGROUND_BASE_LOW": [
-            "transparent",
-            "transparent",
-            "transparent"
+            "#541224",
+            "#541224",
+            "#541224"
         ]
     },
     "rawColors": {
