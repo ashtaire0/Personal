@@ -1,9 +1,9 @@
 {
-    "name": "Theme_name",
-    "description": "Theme_description",
+    "name": "Custom Background",
+    "description": "Personal",
     "authors": [
         {
-            "name": "Author"
+            "name": "Gin"
         }
     ],
     "semanticColors": {
@@ -27,5 +27,8 @@
         "RAW_Color_1": "#00ff00",
         "RAW_Color_2": "#00ff00"
     },
+    "background": {
+        "url": "https://raw.githubusercontent.com/ashtaire0/Personal/refs/heads/main/ClearVision/Vendetta/IMG_20260705_035731.jpg",
+        "alpha": 1
     "spec": 2
 }
